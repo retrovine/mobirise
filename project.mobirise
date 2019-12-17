@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -15,7 +15,7 @@
     "name": "Site-11-29_2224",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 84,
+    "uniqCompNum": 95,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -1262,7 +1262,7 @@
           "_anchor": "slider2-1q"
         },
         {
-          "text": "<p>Sweaters are an essential during the ber months, where it gets especially cold. I am donning a beige knitted sweater, which feels really cozy and soft to the touch and chose my brown chelsea boots as my shoes. The overall look gives off a relaxing vibe, and will keep you from the cold too!</p><p><br></p><p><br></p>",
+          "text": "<p>Sweaters are an essential during the ber months, where it gets especially cold. I am donning a beige knitted sweater, which feels really cozy and soft to the touch and chose my brown chelsea boots as my shoes. The overall look gives off a relaxing vibe, and will keep you from the cold too!</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1323,6 +1323,274 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1t"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/77310453-595388631264679-3401388032828375040-n-768x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/78100615-2693822550683955-7283275536191717376-n-720x960.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/79030502-557464321772734-708865690571898880-n-720x960.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-2c"
+        },
+        {
+          "text": "For a refreshing summer look, this outfit can be used as an example. White off shoulder top, partnered with a floral square pants and sandals. Sunglasses are good choice also for an accessory.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2d"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/78060004-972863823084643-762722802347278336-n-1080x1440.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/78308072-510588782868040-706545630842978304-n-720x960.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-2e"
+        },
+        {
+          "text": "This look is perfect for those times you have to look casual, but still be on fleek. A yellow off shoulder top with high waist pants. And as mentioned before, white shoes goes with everything!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/78076062-2183733721920804-7542895236809228288-n-918x1224.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/78492870-777470242759316-1577105797748359168-n-918x1224.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/78776654-443462176549671-6913112418281324544-n-1374x1374.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/79211820-795093520912585-4290991393234485248-n-918x1224.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-2h"
+        },
+        {
+          "text": "During the hot summer season, you want to opt for a look that will not have you warm and sweaty. Skorts (shorts disguised as skirts) are in right now, and as seen in the picture, you can style it with any tops, may it be black or white.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2i"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/79493713-952221591822173-8925877948821536768-n-918x1224.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/79639896-2609051452700453-3107512300123193344-n-1152x1440.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-2j"
+        },
+        {
+          "text": "For a vibrant and fun look, this outfit can be used as an inspiration. The hot pink colored top guarantees a double look from anyone who sees you, &nbsp;and the pants are sure to die for. With black sandals and sling bag to match, this look is definitely a ten.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2k"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/78419611-3338377406203332-6651719415861608448-n-1-1072x1440.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2l"
+        },
+        {
+          "text": "Plan to do errands or just stroll the mall? This look is perfect for those times you want to be comfortable while being fashionable. The look consists of &nbsp;a floral romper and a trusty white shoes.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2m"
         },
         {
           "_styles": {
